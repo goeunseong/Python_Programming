@@ -27,4 +27,6 @@ def solution_3():
     num_ = str(num)
     print(int(num_, base))
 
+# 파이썬의 int(x, base=10) 함수는 진법 변환을 지원  
+    
 solution_3()
