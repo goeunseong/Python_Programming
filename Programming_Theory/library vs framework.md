@@ -1,6 +1,7 @@
 ---
 layout : single
-title : 'Library vs Framework
+title : 'Library vs Framework'
+---
 
 
 [→ Open in Slid](https://slid.cc/docs/3f82ab75ab6b4947a1081b59faa6ce71)
