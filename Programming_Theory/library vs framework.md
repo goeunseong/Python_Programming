@@ -17,9 +17,6 @@ title : 'Library vs Framework'
 
 우리의 코딩 삶을 윤택하게 하기 위해서 가져다가 쓰는 것이라고 할 수 있다.
 
-[![프로그래밍 Study - 1 image](https://slid-capture.s3.ap-northeast-2.amazonaws.com/public/capture_images/3f82ab75ab6b4947a1081b59faa6ce71/caaecbe6-166e-4e5b-a4f0-7150afdc578a.png)](https://slid.cc/vdocs/3f82ab75ab6b4947a1081b59faa6ce71?v=93e578b99b5644f4858a62cf21b37138&start=52.84334417166138)
-
-[![프로그래밍 Study - 1 image](https://slid-capture.s3.ap-northeast-2.amazonaws.com/public/capture_images/3f82ab75ab6b4947a1081b59faa6ce71/7fac4599-830c-49ce-9004-a834e1f7cbc1.png)](https://slid.cc/vdocs/3f82ab75ab6b4947a1081b59faa6ce71?v=93e578b99b5644f4858a62cf21b37138&start=66.4181059294281)
 
 ```
 너가 코드를 컨트롤하는건지. VS. 누군가의 규칙을 따라 코딩하는건지.
