@@ -21,10 +21,15 @@ arr	divisor	return
 def solution(arr, divisor):
     answer = []
     for i in arr:
-        q, r = divmod(i, divisor)
+        q, r = divmod(i, divisor) 
         if r == 0 and q > 0:
             answer.append(i)
     if len(answer) == 0:
         answer.append(-1)
     answer.sort()
     return answer
+
+def main():
+    arr = [5,9,7,10]
+    divisor = 5
+    solution(arr, divisor)
