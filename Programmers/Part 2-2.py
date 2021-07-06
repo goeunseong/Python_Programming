@@ -27,4 +27,6 @@ def solution_3():
     num_ = str(num)
     print(int(num_, base))
 
+# 파이썬의 int(x, base) 함수는 n진법의 10 변환을 지원  
+    
 solution_3()
